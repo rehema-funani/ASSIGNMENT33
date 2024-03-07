@@ -1,0 +1,168 @@
+ul{
+    display: flex;
+    gap:5%;
+}
+#navbar{
+    border: 1px solid;
+}
+
+
+li{
+    margin-top: 3%;
+}
+button{
+    border: 1px solid;
+    border-radius: 15%;
+    color: blue;
+    width: 15%;
+    background-color: blue;
+    -webkit-text-fill-color: black;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+.image{
+    margin-top: 2%;
+}
+.image2{
+    margin-top: 0%;
+}
+#container1{
+    display: flex;
+    gap: 8%;
+    
+
+    margin-top: 5%;
+}
+#page{
+    border-radius: 1px solid;
+    border-color: blue;
+
+}
+#text{
+    text-decoration-color: brown;
+    text-align: block;
+    margin-left: 10%;
+
+}
+header1{
+    -webkit-text-fill-color: red;
+    font-size: larger;
+
+}
+#container2{
+    display: flex;
+    
+}
+
+
+#container3{
+    display: flex;
+}
+#container4{
+    text-align: center;
+}
+
+
+#form3{
+    border: 1px solid;
+    border-color: black;
+    width:25%;
+    text-align: center;
+    border-radius: 5%;
+
+}
+#form2{
+    border: 1px solid;
+    border-color: black;
+    width:25%;
+    text-align: center;
+    border-radius: 5%;
+}
+#form1{
+    border: 1px solid;
+    border-color: black;
+    width:25%;
+    text-align: center;
+    border-radius: 5%;
+}
+#container5{
+    display: flex;
+    gap:5%;
+}
+#container6{
+    text-align: center;
+}
+#container7{
+    text-align: center;
+}
+#picture1{
+    border: 1px solid;
+    border-color: black;
+    width:30%;
+    border-radius: 5%;
+    
+}
+#picture2{
+    border: 1px solid;
+    border-color: black;
+    width:30%;
+    border-radius: 5%;
+}
+#picture3{
+    border: 1px solid;
+    border-color: black;
+    border-radius: 5%;
+    width:30%;
+
+    
+}
+#container8{
+    display: flex;
+    gap:5%;
+    
+}
+#container9{
+    display: flex;
+    gap:10%;
+}
+#page{
+    margin: 4%;
+    width:90%;
+}
+.images{
+    width:15%;
+}
+.images2{
+    border: 1px solid;
+    border-radius: 50%;
+}
+#images3{
+    border: 1px solid;
+    width:70%;
+}
+#container9{
+    width: 70%;
+    
+    
+
+}
+#image10{
+    border: 1px solid;
+    border-radius: 50%;
+}
+.image11{
+    width: 170px;
+}
+#haa{
+    display: flex;
+}
+
+
+
+
+
+
+    @media all and (max-width:500px){
+        body
+    }
